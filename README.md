@@ -5,6 +5,9 @@
 ### Sign in to your Github Account using Edge in the Virtual Machine
 
 Go to [Github](https://github.com) and either sign in, or create a new free account.
+[hypertheory - applied angular](https://applied-angular.hypertheory.com/)
+[tailwindcss](https://tailwindcss.com/)
+[daisyui](https://daisyui.com/)
 
 ### The instructor will how you to to set up git authentication
 We will also update our local git configuration.

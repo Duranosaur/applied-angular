@@ -5,9 +5,6 @@
 ### Sign in to your Github Account using Edge in the Virtual Machine
 
 Go to [Github](https://github.com) and either sign in, or create a new free account.
-[hypertheory - applied angular](https://applied-angular.hypertheory.com/)
-[tailwindcss](https://tailwindcss.com/)
-[daisyui](https://daisyui.com/)
 
 ### The instructor will how you to to set up git authentication
 We will also update our local git configuration.
@@ -42,6 +39,13 @@ I initialized the Tailwind configuration for this. Again, details are in the cou
 ## Starting the Application
 
 Go to the directory where this file lives and type:
+
+### Resources & Tools
+[hypertheory - applied angular](https://applied-angular.hypertheory.com/)
+[tailwindcss](https://tailwindcss.com/)
+[daisyui](https://daisyui.com/)
+
+[Jeff's Code](https://github.com/JeffryGonzalez/applied-angular)
 
 ```shell
 just code

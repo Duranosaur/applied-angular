@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, input } from '@angular/core';
+import { NavBarLinks } from '../models';
 
 @Component({
   selector: 'app-side-menu',
@@ -38,5 +39,5 @@ import { Component } from '@angular/core';
   styles: ``
 })
 export class SideMenuComponent {
-
+  listOfLinks = input.required<NavBarLinks>();
 }

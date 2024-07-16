@@ -8,7 +8,7 @@ import { NavBarComponent } from "./components/nav-bar/nav-bar.component";
     template: `
     <app-nav-bar />
     <main class="container mx-auto">
-      
+      <router-outlet />
     </main>
   `,
     styles: [],

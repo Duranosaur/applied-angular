@@ -1,8 +1,11 @@
-export type NavItem = {
+
+
+ export type NavItem = {
     label: string;
     link: string;
+   
 }
 
-type NavBarLink = NavItem & { children?: NavItem[] }
+export type NavbarLink = NavItem & { children?: NavItem[] }
 
-export type NavBarLinks = NavBarLink[];
+export type NavbarLinks = NavbarLink[];

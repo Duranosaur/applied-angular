@@ -45,6 +45,8 @@ Go to the directory where this file lives and type:
 [tailwindcss](https://tailwindcss.com/)
 [daisyui](https://daisyui.com/)
 
+[Mock Service Worker](https://mswjs.io/)
+
 [Jeff's Code](https://github.com/JeffryGonzalez/applied-angular)
 
 ```shell

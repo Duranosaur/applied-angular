@@ -46,8 +46,12 @@ Go to the directory where this file lives and type:
 [daisyui](https://daisyui.com/)
 
 [Mock Service Worker](https://mswjs.io/)
+[Excalidraw](https://excalidraw.com/)
 
 [Jeff's Code](https://github.com/JeffryGonzalez/applied-angular)
+
+### Education
+[Flux in-debth]https://facebookarchive.github.io/flux/docs/in-depth-overview/()
 
 ```shell
 just code

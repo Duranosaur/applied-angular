@@ -1,6 +1,6 @@
 import { ApplicationConfig, provideZoneChangeDetection } from '@angular/core';
 import { provideStoreDevtools } from '@ngrx/store-devtools';
-import { provideRouter } from '@angular/router';
+import { provideRouter, withDebugTracing } from '@angular/router';
 
 import { routes } from './app.routes';
 import { provideHttpClient } from '@angular/common/http';
@@ -17,6 +17,6 @@ export const appConfig: ApplicationConfig = {
     provideStore(),
     provideState(UserFeature),
     provideStoreDevtools(), // maybe do this only in isDev
-    provideEffects({ x: loadUser }),
+    provideEffects({ loadUser: loadUser }),
   ],
 };
